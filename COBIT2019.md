@@ -31,6 +31,7 @@ Daarnaast heeft de volgende governancedoelstelling van COBIT 2019 een relatie me
 #### MEA01—Managed Performance and Conformance Monitoring
 Verzamel, valideer en evalueer bedrijfsdoelen. Controleer of processen en practices presteren ten opzichte van overeengekomen prestatie- en conformiteitsdoelen. Zorg voor een systematische en tijdige rapportage (ISACA, 2018a, p. 273).
 
+Grote public cloud providers zoals AWS, Azure en GCP zijn niet COBIT 2019 gecertificeerd. Dat is logisch aangezien COBIT 2019 gericht is op governance binnen een organisatie te organiseren. Het gaat dus niet over technische zaken waardoor het voor Cloud Service Providers onmogelijk is om hun diensten hieraan te meten. 
 
 Om de bovengenoemde en andere governance- en managementdoelstellingen te implementeren worden de onderstaande 7 fases doorlopen. Zodra alle fases zijn uitgevoerd kunnen er nieuwe doelen en eisen geformuleerd worden. Vervolgens wordt er een nieuwe cycli in gang gezet (ISACA, 2018c, pp. 24–25).
  
